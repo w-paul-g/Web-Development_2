@@ -1,0 +1,110 @@
+.row{
+    padding: 20px 20px;
+}
+.row img{
+    width: 100%;
+    height: auto;
+
+    border-radius: 50px;
+    border: none;
+}
+.row .card img{
+    border: none;
+    border-radius: 1000px;
+}
+.row .card{
+    text-align: center;
+   border: none;
+}
+/*.one img{*/
+/*    width: 100%;*/
+/*    height: 50vh;*/
+/*    !*color: beige;*!*/
+/*    !*background-color: #1a1d20;*!*/
+/*}*/
+/*.two img{*/
+/*    width: 100%;*/
+/*    height: 50vh;*/
+/*    !*color: white;*!*/
+/*    !*background-color: #2c0b0e;*!*/
+/*}*/
+/*.three img{*/
+/*    width: 100%;*/
+/*    height: 50vh;*/
+/*    !*color: burlywood;*!*/
+/*    !*background-color: #1a1d20;*!*/
+/*}*/
+/*.four img{*/
+/*    width: 100%;*/
+/*    height: 50vh;*/
+/*    !*color: #dada6a;*!*/
+/*    !*background-color: #475059;*!*/
+/*}*/
+/*.five{*/
+/*    color: #e5dede;*/
+/*    background-color: #421418;*/
+/*}*/
+/*.six{*/
+/*    color: #c5aa8a;*/
+/*    background-color: #75818c;*/
+/*}*/
+/*.seven{*/
+/*    color: #e5e59e;*/
+/*    background-color: #1c1e1f;*/
+/*}*/
+/*.eight{*/
+/*    color: #bb8181;*/
+/*    background-color: #2c0b0e;*/
+/*}*/
+/*.nine{*/
+/*    color: #c4a37d;*/
+/*    background-color: rgba(26, 29, 32, 0.58);*/
+/*}*/
+/*.ten{*/
+/*    color: #9a9a7e;*/
+/*    background-color: #334260;*/
+/*}*/
+/*.eleven{*/
+/*    color: white;*/
+/*    background-color: #2c0b0e;*/
+/*}*/
+/*.twelve{*/
+/*    color: burlywood;*/
+/*    background-color: #1a1d20;*/
+/*}*/
+/*.thirteen{*/
+/*    color: beige;*/
+/*    background-color: #1a1d20;*/
+/*}*/
+/*.fourteen{*/
+/*    color: white;*/
+/*    background-color: #2c0b0e;*/
+/*}*/
+/*.fifteen{*/
+/*    color: burlywood;*/
+/*    background-color: #1a1d20;*/
+/*}*/
+/*.sixteen{*/
+/*    color: beige;*/
+/*    background-color: #1a1d20;*/
+/*}*/
+/*.seventeen{*/
+/*    color: white;*/
+/*    background-color: #2c0b0e;*/
+/*}*/
+/*.eighteen{*/
+/*    color: burlywood;*/
+/*    background-color: #1a1d20;*/
+/*}*/
+/*.nineteen{*/
+/*    color: beige;*/
+/*    background-color: #1a1d20;*/
+/*}*/
+/*.twenty{*/
+/*    color: white;*/
+/*    background-color: #2c0b0e;*/
+/*}*/
+/*.twentyone{*/
+/*    color: burlywood;*/
+/*    background-color: #1a1d20;*/
+/*}*/
